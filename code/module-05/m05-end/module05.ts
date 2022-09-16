@@ -62,6 +62,7 @@ class BuildArray {
             return randomNumbers.sort(this.sortDescending);
         } 
     }
+    
 }
 
 /*  TODO: Instantiate the BuildArray objects. */
